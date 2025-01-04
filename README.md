@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a comparative literature and media scholar at Saarland University. My involvemnet with GitHub revolves around the popular knowledge management app [Obsidian](http://obsidian.md). I'm using this app for note taking, class/curriculum development and presentations (via [Obsidian Advanced Slides](https://mszturc.github.io/obsidian-advanced-slides/)/[reveal.js](http://revealjs.com)). I'm also working on several plugins for Obsidian. My goal is to further connect my thoughts on knowledge management, media theory and coding practices.
+
 <!--
 **jharst/jharst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
